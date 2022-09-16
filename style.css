@@ -1,8 +1,8 @@
 *{margin: 0; padding: 0;box-sizing: border-box;}
 body{
     font-family: 'montserrat' , sans-serif;
-    color: rgb(255, 255, 255);
-    background-image: url('elazig.jpg');
+    color: #a08b6c;
+    background-image: url('https://computerscience.johncabot.edu/mscaramastra/S2015/CS131/Chiesa/final/images/tirith.jpg');
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
@@ -19,7 +19,7 @@ body{
 .header{padding: 50px 20px 30px 20px;}
 .header h1{
     font-size: 50px;
-    color: #fbb034;
+    color: #a08b6c;
     text-shadow: 1px 3px rgba(0, 0, 0,.9);
 }
 .header input{
@@ -31,7 +31,7 @@ body{
     border-bottom: 2px solid #fbb034;
     text-align: center;
     font-size: 20px;
-    color: #f2f2f2;
+    color: #a08b6c;
 }
 
 .city{
@@ -41,7 +41,7 @@ body{
     text-shadow: 1px 3px rgba(0,0,0,.8);
 }
 .temp{
-    font-size: 70px;
+    font-size: 50px;
     font-weight: 700;
     margin-bottom: 15px;
     text-shadow: 1px 5px rgba(0, 0, 0,.1);
